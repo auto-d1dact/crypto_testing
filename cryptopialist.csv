@@ -1,575 +1,479 @@
-CryptopiaName,Name,Ticker,Algo,Network,Exchange
- 1337 (1337), 1337,1337,POS,POS,Cryptopia
- 21Million (21M), 21million,21M,None,Asset,Cryptopia
- 300 Token (300), 300 token,300,None,Asset,Cryptopia
- 42-coin (42), 42-coin,42,Scrypt,Hybrid,Cryptopia
- 808 (808), 808,808,SHA256,Hybrid,Cryptopia
- 8Bit (8BIT), 8bit,8BIT,POS,POS,Cryptopia
- ACoin (ACOIN), acoin,ACOIN,SHA256,POW,Cryptopia
- Adcoin (ACC), adcoin,ACC,Scrypt,POW,Cryptopia
- Adshares (ADST), adshares,ADST,None,Asset,Cryptopia
- Alexandrite (ALEX), alexandrite,ALEX,SHA256,Hybrid,Cryptopia
- ALIS (ALIS), alis,ALIS,None,Asset,Cryptopia
- Allion (ALL), allion,ALL,Scrypt,Hybrid,Cryptopia
- Alphabit (ABC), alphabit,ABC,None,Asset,Cryptopia
- AltCoin (ALT), altcoin,ALT,None,Asset,Cryptopia
- AmigaCoin (AGA), amigacoin,AGA,Scrypt,POW,Cryptopia
- AnarchistsPrime (ACP), anarchistsprime,ACP,SHA256,POW,Cryptopia
- AnimeCoin (ANI), animecoin,ANI,Other,POW,Cryptopia
- APX (APX), apx,APX,None,Asset,Cryptopia
- AquariusCoin (ARCO), aquariuscoin,ARCO,POS,POS,Cryptopia
- ArcticCoin (ARC), arcticcoin,ARC,X11,Hybrid,Cryptopia
- Argentum (ARG), argentum,ARG,Scrypt,POW,Cryptopia
- ArgusCoin (ARGUS), arguscoin,ARGUS,Scrypt,POW,Cryptopia
- Aricoin (ARI), aricoin,ARI,Scrypt,POW,Cryptopia
- Ark (ARK), ark,ARK,None,DPOS,Cryptopia
- ArtByte (ABY), artbyte,ABY,Scrypt,POW,Cryptopia
- Asiacoin (AC), asiacoin,AC,POS,POS,Cryptopia
- Athenian Warrior Token (ATH), athenian warrior token,ATH,None,Asset,Cryptopia
- Atmos (ATMS), atmos,ATMS,Scrypt,POS,Cryptopia
- Atomiccoin (ATOM), atomiccoin,ATOM,Scrypt,Hybrid,Cryptopia
- AudioCoin (ADC), audiocoin,ADC,Scrypt,Hybrid,Cryptopia
- Augur (REP), augur,REP,Scrypt,POW,Cryptopia
- Aureus (AURS), aureus,AURS,Scrypt,POW,Cryptopia
- AuroraCoin (AUR), auroracoin,AUR,Scrypt,POW,Cryptopia
- AurumCoin (AU), aurumcoin,AU,SHA256,POW,Cryptopia
- B3 Coin (B3), b3 coin,B3,Scrypt,POS,Cryptopia
- BATA (BTA), bata,BTA,Scrypt,Hybrid,Cryptopia
- BatCoin (BAT), batcoin,BAT,Scrypt,POW,Cryptopia
- BCash (BCH), bcash,BCH,SHA256,POW,Cryptopia
- BeachCoin (SAND), beachcoin,SAND,X11,POW,Cryptopia
- BeatCoin (XBTS), beatcoin,XBTS,X11,POS,Cryptopia
- BeaverCoin (BVC), beavercoin,BVC,Scrypt,POW,Cryptopia
- BeezerCoin (BEEZ), beezercoin,BEEZ,Scrypt,POS,Cryptopia
- BenjiRolls (BENJI), benjirolls,BENJI,Scrypt,POW,Cryptopia
- BERNcash (BERN), berncash,BERN,Other,Hybrid,Cryptopia
- BestChain (BEST), bestchain,BEST,Scrypt,Hybrid,Cryptopia
- Billionaire Token (XBL), billionaire token,XBL,None,Asset,Cryptopia
- BipCoin (BIP), bipcoin,BIP,CryptoNight,POW,Cryptopia
- BirdCoin (BIRD), birdcoin,BIRD,Scrypt,POW,Cryptopia
- Bismuth (BIS), bismuth,BIS,Other,POW,Cryptopia
- BitBar (BTB), bitbar,BTB,Scrypt,Hybrid,Cryptopia
- BitBay (BAY), bitbay,BAY,Scrypt,POW,Cryptopia
- BitBean (BITB), bitbean,BITB,POS,POS,Cryptopia
- Bitcedi (BXC), bitcedi,BXC,CryptoNight,POW,Cryptopia
- Bitcloud (BTDX), bitcloud,BTDX,Scrypt,POW,Cryptopia
- Bitcoal (COAL), bitcoal,COAL,CryptoNight,POW,Cryptopia
- Bitcoin (BTC), bitcoin,BTC,SHA256,POW,Cryptopia
- Bitcoin Fast (BCF), bitcoin fast,BCF,Scrypt,Hybrid,Cryptopia
- Bitcoin Scrypt (BTCS), bitcoin scrypt,BTCS,Scrypt,POW,Cryptopia
- BitcoinDark (BTCD), bitcoindark,BTCD,POS,POS,Cryptopia
- BitcoinPlus (XBC), bitcoinplus,XBC,POS,POS,Cryptopia
- BitCore (BTX), bitcore,BTX,Other,POW,Cryptopia
- BitDeal (BDL), bitdeal,BDL,Scrypt,POW,Cryptopia
- Bitgem (BTG), bitgem,BTG,Scrypt,Hybrid,Cryptopia
- Bitradio (BRO), bitradio,BRO,POS,POS,Cryptopia
- BitSend (BSD), bitsend,BSD,Other,POW,Cryptopia
- Bitstar (BITS), bitstar,BITS,Scrypt,POS,Cryptopia
- BlackCoin (BLK), blackcoin,BLK,POS,POS,Cryptopia
- Blakecoin (BLC), blakecoin,BLC,Blake256,POW,Cryptopia
- BlazeCoin (BLZ), blazecoin,BLZ,Scrypt,POW,Cryptopia
- BlockCat (BKCAT), blockcat,BKCAT,None,Asset,Cryptopia
- BlockMason (BCPT), blockmason,BCPT,None,Asset,Cryptopia
- BlockOptions (BOP), blockoptions,BOP,None,Asset,Cryptopia
- Blockpool (BPL), blockpool,BPL,Other,DPOS,Cryptopia
- Blocktix (TIX), blocktix,TIX,None,Asset,Cryptopia
- BnrtxCoin (BNX), bnrtxcoin,BNX,X11,POW,Cryptopia
- BolivarCoin (BOLI), bolivarcoin,BOLI,X11,POW,Cryptopia
- Bongger (BGR), bongger,BGR,Scrypt,POW,Cryptopia
- Bonpay (BON), bonpay,BON,None,Asset,Cryptopia
- Boolberry (BBR), boolberry,BBR,CryptoNight,POW,Cryptopia
- BorgCoin (BRG), borgcoin,BRG,Scrypt,POW,Cryptopia
- Boson (BOSON), boson,BOSON,X11,POW,Cryptopia
- BottleCaps (CAP), bottlecaps,CAP,POS,POS,Cryptopia
- BraveNewCoin (BNC), bravenewcoin,BNC,None,Asset,Cryptopia
- Bulwark (BWK), bulwark,BWK,Nist5,POW,Cryptopia
- Bumbacoin (BUMBA), bumbacoin,BUMBA,X11,POS,Cryptopia
- BunnyCoin (BUN), bunnycoin,BUN,Scrypt,POW,Cryptopia
- BVBCoin (BVB), bvbcoin,BVB,X11,Hybrid,Cryptopia
- Byteball Bytes (GBYTE), byteball bytes,GBYTE,Scrypt,POW,Cryptopia
- Bytom (BTM), bytom,BTM,None,Asset,Cryptopia
- C-bit (XCT), c-bit,XCT,SHA256,POW,Cryptopia
- CacheCoin (CACH), cachecoin,CACH,Scrypt_jane,Hybrid,Cryptopia
- CampusCoin (CMPCO), campuscoin,CMPCO,Scrypt,POW,Cryptopia
- Canada eCoin (CDN), canada ecoin,CDN,Scrypt,POW,Cryptopia
- Cannabiscoin (CANN), cannabiscoin,CANN,X11,POW,Cryptopia
- CannabisIndustryCoin (XCI), cannabisindustrycoin,XCI,CryptoNight,POW,Cryptopia
- CannaCoin (CCN), cannacoin,CCN,Scrypt,POW,Cryptopia
- Cannation (CNNC), cannation,CNNC,POS,POS,Cryptopia
- Cappasity (CAPP), cappasity,CAPP,None,Asset,Cryptopia
- CareerCoin (CAR), careercoin,CAR,Scrypt,Hybrid,Cryptopia
- CasinoCoin (CSC), casinocoin,CSC,Scrypt,POW,Cryptopia
- Catcoin (CAT), catcoin,CAT,Scrypt,POW,Cryptopia
- Centra (CTR), centra,CTR,None,Asset,Cryptopia
- ChainCoin (CHC), chaincoin,CHC,C11,POW,Cryptopia
- ChanCoin (4CHN), chancoin,4CHN,Scrypt,POW,Cryptopia
- ChessCoin (CHESS), chesscoin,CHESS,Scrypt,POS,Cryptopia
- ChronosCoin (CRX), chronoscoin,CRX,Scrypt,POW,Cryptopia
- ClamCoin (CLAM), clamcoin,CLAM,Scrypt,Hybrid,Cryptopia
- ClearPoll (POLL), clearpoll,POLL,Other,POW,Cryptopia
- CloakCoin (CLOAK), cloakcoin,CLOAK,POS,POS,Cryptopia
- CoffeeCoin (CFC), coffeecoin,CFC,Scrypt,POS,Cryptopia
- Coimatic 3 (CTIC3), coimatic 3,CTIC3,None,Asset,Cryptopia
- Coin2 (C2), coin2,C2,Scrypt,Hybrid,Cryptopia
- Coino (CNO), coino,CNO,X11,Hybrid,Cryptopia
- Coinonat (CXT), coinonat,CXT,Nist5,POW,Cryptopia
- CoinonatX (XCXT), coinonatx,XCXT,X11,Hybrid,Cryptopia
- Colossuscoin (CV2), colossuscoin,CV2,Scrypt,Hybrid,Cryptopia
- CometCoin (CMT), cometcoin,CMT,Scrypt,POW,Cryptopia
- CompCoin (CMP), compcoin,CMP,Scrypt,POW,Cryptopia
- Compound Coin (COMP), compound coin,COMP,X11,Hybrid,Cryptopia
- CompuCoin (CPN), compucoin,CPN,Scrypt,POW,Cryptopia
- Condensate (RAIN), condensate,RAIN,X11,POS,Cryptopia
- ConquestCoin (CQST), conquestcoin,CQST,X13,POS,Cryptopia
- CoolInDarkCoin (CC), coolindarkcoin,CC,Scrypt,Hybrid,Cryptopia
- COPICO (XCPO), copico,XCPO,POS,POS,Cryptopia
- CopperCoin (COPPER), coppercoin,COPPER,Scrypt,Hybrid,Cryptopia
- CorgiCoin (CORG), corgicoin,CORG,Scrypt,POS,Cryptopia
- Corion (COR), corion,COR,None,Asset,Cryptopia
- Crave (CRAVE), crave,CRAVE,Scrypt,POS,Cryptopia
- CREAMcoin (CRM), creamcoin,CRM,X11,POW,Cryptopia
- Creatio (XCRE), creatio,XCRE,POS,POS,Cryptopia
- CreativeCoin (CREA), creativecoin,CREA,Keccak,POW,Cryptopia
- CrowdCoin (CRC), crowdcoin,CRC,NeoScrypt,POW,Cryptopia
- CryptCoin (CRYPT), cryptcoin,CRYPT,X11,Hybrid,Cryptopia
- CryptoBullion (CBX), cryptobullion,CBX,POS,POS,Cryptopia
- CryptoClub (CCB), cryptoclub,CCB,X11,POS,Cryptopia
- CryptoForecast (CFT), cryptoforecast,CFT,None,Asset,Cryptopia
- CryptoJacks (CJ), cryptojacks,CJ,X13,Hybrid,Cryptopia
- CryptopiaFeeShare (CEFS), cryptopiafeeshare,CEFS,None,Asset,Cryptopia
- CryptoRuble (CRUR), cryptoruble,CRUR,POS,POS,Cryptopia
- Cthulhu Offerings (OFF), cthulhu offerings,OFF,Quark,POW,Cryptopia
- Cubits (QBT), cubits,QBT,POS,POS,Cryptopia
- Cypherfunks (FUNK), cypherfunks,FUNK,Scrypt,POW,Cryptopia
- DA Power Play (DPP), da power play,DPP,None,Asset,Cryptopia
- DA$ (DAS), da$,DAS,None,Asset,Cryptopia
- DALECOIN (DALC), dalecoin,DALC,None,Asset,Cryptopia
- DARK (DARK), dark,DARK,SHA256,POS,Cryptopia
- Darsek (KED), darsek,KED,Scrypt,Hybrid,Cryptopia
- Dash (DASH), dash,DASH,X11,POW,Cryptopia
- DashCoin (DSH), dashcoin,DSH,CryptoNight,POW,Cryptopia
- DaxxCoin (DAXX), daxxcoin,DAXX,Ethash,POW,Cryptopia
- DCORP (DRP), dcorp,DRP,Equihash,Asset,Cryptopia
- DDF (DDF), ddf,DDF,None,Asset,Cryptopia
- DecentBet (DBET), decentbet,DBET,Other,POW,Cryptopia
- Decision Token (HST), decision token,HST,Other,POW,Cryptopia
- Decred (DCR), decred,DCR,Blake256,Hybrid,Cryptopia
- DeepOnion (ONION), deeponion,ONION,X13,Hybrid,Cryptopia
- Denarius (DNR), denarius,DNR,Scrypt,Hybrid,Cryptopia
- Dentacoin (DCN), dentacoin,DCN,None,Asset,Cryptopia
- Deuscoin (DEUS), deuscoin,DEUS,Other,POW,Cryptopia
- Deutsche eMark (DEM), deutsche emark,DEM,SHA256,Hybrid,Cryptopia
- DFSCoin (DFS), dfscoin,DFS,Scrypt,Hybrid,Cryptopia
- DIBCOIN (DIBC), dibcoin,DIBC,Scrypt,POW,Cryptopia
- DigiByte (DGB), digibyte,DGB,Scrypt,POW,Cryptopia
- DigiPulse (DGPT), digipulse,DGPT,Other,POW,Cryptopia
- Digitalcoin (DGC), digitalcoin,DGC,Scrypt,POW,Cryptopia
- DigitalPrice (DP), digitalprice,DP,SHA256,POS,Cryptopia
- DimeCoin (DIME), dimecoin,DIME,Quark,POW,Cryptopia
- DimeCoinDirty (DIRTY), dimecoindirty,DIRTY,X11,POW,Cryptopia
- DinastyCoin (DCY), dinastycoin,DCY,CryptoNight,POW,Cryptopia
- Divi Exchange Token (DIVX), divi exchange token,DIVX,Other,POW,Cryptopia
- DNotes (NOTE), dnotes,NOTE,Scrypt,POW,Cryptopia
- Dogecoin (DOGE), dogecoin,DOGE,Scrypt,POW,Cryptopia
- DonationCoin (DON), donationcoin,DON,Scrypt,POW,Cryptopia
- DopeCoin (DOPE), dopecoin,DOPE,Scrypt,POW,Cryptopia
- Dotcoin (DOT), dotcoin,DOT,None,Asset,Cryptopia
- Droxne (DRXNE), droxne,DRXNE,POS,POS,Cryptopia
- DubaiCoin (DBIX), dubaicoin,DBIX,Dagger,POW,Cryptopia
- E-Gulden (EFL), e-gulden,EFL,Scrypt,POW,Cryptopia
- Eclipse (EC), eclipse,EC,POS,POS,Cryptopia
- EcoBit (ECOB), ecobit,ECOB,None,Asset,Cryptopia
- ECOcoin (ECO), ecocoin,ECO,Scrypt,Hybrid,Cryptopia
- Eddiecoin (EDDIE), eddiecoin,EDDIE,Scrypt,Hybrid,Cryptopia
- EDRcoin (EDRC), edrcoin,EDRC,SHA256,Hybrid,Cryptopia
- EducoinV (EDC), educoinv,EDC,Scrypt,POW,Cryptopia
- Einsteinium (EMC2), einsteinium,EMC2,Scrypt,POW,Cryptopia
- ElaCoin (ELC), elacoin,ELC,Scrypt,POW,Cryptopia
- Electroneum (ETN), electroneum,ETN,CryptoNight,Other,Cryptopia
- Elements (ELM), elements,ELM,Scrypt,POW,Cryptopia
- ElephantCoin (ELP), elephantcoin,ELP,Scrypt,POW,Cryptopia
- Ellaism (ELLA), ellaism,ELLA,Ethash,POW,Cryptopia
- EmbargoCoin (EBG), embargocoin,EBG,SHA256,POW,Cryptopia
- EmberCoin (EMB), embercoin,EMB,X13,Hybrid,Cryptopia
- Embers (MBRS), embers,MBRS,None,Asset,Cryptopia
- Emerald Crypto (EMD), emerald crypto,EMD,Scrypt,POW,Cryptopia
- EmerCoin (EMC), emercoin,EMC,SHA256,Hybrid,Cryptopia
- EncryptoTel (ETT), encryptotel,ETT,None,Asset,Cryptopia
- Enjin Coin (ENJ), enjin coin,ENJ,None,Asset,Cryptopia
- Equitrade (EQT), equitrade,EQT,X11,Hybrid,Cryptopia
- Eryllium (ERY), eryllium,ERY,X11,Hybrid,Cryptopia
- Ethereum (ETH), ethereum,ETH,Ethash,POW,Cryptopia
- Ethereum Classic (ETC), ethereum classic,ETC,Dagger,POW,Cryptopia
- Ethereum Dark (ETHD), ethereum dark,ETHD,None,Asset,Cryptopia
- Etheriya (RIYA), etheriya,RIYA,Scrypt,POW,Cryptopia
- Eurocoin (EUC), eurocoin,EUC,SHA256,POW,Cryptopia
- EverGreenCoin (EGC), evergreencoin,EGC,POS,POS,Cryptopia
- Everus (EVR), everus,EVR,None,Asset,Cryptopia
- Evilcoin (EVIL), evilcoin,EVIL,X11,POS,Cryptopia
- Evotion (EVO), evotion,EVO,SHA256,Hybrid,Cryptopia
- Expanse (EXP), expanse,EXP,Dagger,POW,Cryptopia
- ExperienceCoin (EPC), experiencecoin,EPC,Scrypt,POW,Cryptopia
- FacileCoin (FCN), facilecoin,FCN,Other,POP,Cryptopia
- Factom (FCT), factom,FCT,Scrypt,POW,Cryptopia
- FastCoin (FST), fastcoin,FST,Scrypt,POW,Cryptopia
- FazzCoin (FAZZ), fazzcoin,FAZZ,None,POS,Cryptopia
- Feathercoin (FTC), feathercoin,FTC,NeoScrypt,POW,Cryptopia
- FeatherCoinClassic (FTCC), feathercoinclassic,FTCC,Scrypt,POW,Cryptopia
- FireFlyCoin (FFC), fireflycoin,FFC,SHA256,POW,Cryptopia
- FireRoosterCoin (FRC), fireroostercoin,FRC,SHA256,POW,Cryptopia
- FLASH (FLASH), flash,FLASH,Scrypt,POW,Cryptopia
- Flaxscript (FLAX), flaxscript,FLAX,C11,Other,Cryptopia
- FloripaCoin (FLN), floripacoin,FLN,Scrypt,POW,Cryptopia
- FlutterCoin (FLT), fluttercoin,FLT,Scrypt,Hybrid,Cryptopia
- FonzieCoin (FONZ), fonziecoin,FONZ,SHA256,POS,Cryptopia
- FootyCash (XFT), footycash,XFT,POS,POS,Cryptopia
- Fortcoin (FORT), fortcoin,FORT,POS,POS,Cryptopia
- Francs (FRN), francs,FRN,Scrypt,POW,Cryptopia
- FuelCoin (FUEL), fuelcoin,FUEL,Scrypt,POW,Cryptopia
- FujiCoin (FJC), fujicoin,FJC,Scrypt,POW,Cryptopia
- FuzzBalls (FUZZ), fuzzballs,FUZZ,Scrypt,POW,Cryptopia
- GaiaCoin (GAIA), gaiacoin,GAIA,POS,POS,Cryptopia
- GameCredits (GAME), gamecredits,GAME,Scrypt,POW,Cryptopia
- GameUnits (UNITS), gameunits,UNITS,None,POS,Cryptopia
- Gapcoin (GAP), gapcoin,GAP,Scrypt,POW,Cryptopia
- GayMoney (GAY), gaymoney,GAY,POS,POS,Cryptopia
- GCoin (GCN), gcoin,GCN,Scrypt,POW,Cryptopia
- GeertCoin (GEERT), geertcoin,GEERT,Scrypt,POW,Cryptopia
- GeneChain (DNA), genechain,DNA,Scrypt,POW,Cryptopia
- GeoCoin (GEO), geocoin,GEO,Qubit,POW,Cryptopia
- GlobalBoost-Y (BSTY), globalboost-y,BSTY,Yescrypt,POW,Cryptopia
- Gnosis (GNO), gnosis,GNO,None,Asset,Cryptopia
- GoByte (GBX), gobyte,GBX,NeoScrypt,POW,Cryptopia
- GoldCoin (GLD), goldcoin,GLD,Scrypt,POW,Cryptopia
- GoldPieces (GP), goldpieces,GP,X11,POS,Cryptopia
- GoldPressedLatinum (GPL), goldpressedlatinum,GPL,Scrypt_jane,Hybrid,Cryptopia
- GoldReserve (XGR), goldreserve,XGR,X11,POS,Cryptopia
- Golem (GNT), golem,GNT,None,Asset,Cryptopia
- GPUCoin (GPU), gpucoin,GPU,Scrypt_n,POW,Cryptopia
- GrandCoin (GDC), grandcoin,GDC,Scrypt,POW,Cryptopia
- Granite (GRN), granite,GRN,X11,POW,Cryptopia
- Groestlcoin (GRS), groestlcoin,GRS,Groestl,POW,Cryptopia
- GroinCoin (GXG), groincoin,GXG,X11,POW,Cryptopia
- Growers Intl (GRWI), growers intl,GRWI,Scrypt,POW,Cryptopia
- GrowthCoin (GRW), growthcoin,GRW,Scrypt,Hybrid,Cryptopia
- GunCoin (GUN), guncoin,GUN,NeoScrypt,POW,Cryptopia
- Hackspace (HAC), hackspace,HAC,None,Asset,Cryptopia
- Halcyon (HAL), halcyon,HAL,NeoScrypt,Hybrid,Cryptopia
- HarvestCoin (HC), harvestcoin,HC,Other,POW,Cryptopia
- Havecoin (HAV), havecoin,HAV,Other,POW,Cryptopia
- HeatLedger (HEAT), heatledger,HEAT,Scrypt,POW,Cryptopia
- Helium (HLM), helium,HLM,X11,POW,Cryptopia
- HexxCoin (HXX), hexxcoin,HXX,Lyra2Zoin,POW,Cryptopia
- HoboNickels (HBN), hobonickels,HBN,Scrypt,Hybrid,Cryptopia
- HodlBucks (HDLB), hodlbucks,HDLB,None,Asset,Cryptopia
- HomeblockCoin (HBC), homeblockcoin,HBC,X11,Hybrid,Cryptopia
- HSHARE (HSR), hshare,HSR,Scrypt,POW,Cryptopia
- Hush (HUSH), hush,HUSH,Equihash,Other,Cryptopia
- HyperStake (HYP), hyperstake,HYP,POS,POS,Cryptopia
- I0Coin (I0C), i0coin,I0C,SHA256,POW,Cryptopia
- ICOBid (ICOB), icobid,ICOB,Scrypt,Hybrid,Cryptopia
- Incakoin (NKA), incakoin,NKA,SHA256,Hybrid,Cryptopia
- InCoin (IN), incoin,IN,X11,Hybrid,Cryptopia
- Independent Money System (IMS), independent money system,IMS,Scrypt,Hybrid,Cryptopia
- InfiniteCoin (IFC), infinitecoin,IFC,Scrypt,POW,Cryptopia
- InflationCoin (IFLT), inflationcoin,IFLT,X11,Hybrid,Cryptopia
- Influxcoin (INFX), influxcoin,INFX,X11,Hybrid,Cryptopia
- Innova (INN), innova,INN,Scrypt,POW,Cryptopia
- Insane (INSN), insane,INSN,X11,Hybrid,Cryptopia
- InterstellarHoldings (HOLD), interstellarholdings,HOLD,Scrypt,Hybrid,Cryptopia
- investFeed (IFT), investfeed,IFT,Other,Asset,Cryptopia
- Iquant Chain (IQT), iquant chain,IQT,None,Asset,Cryptopia
- IrishCoin (IRL), irishcoin,IRL,Scrypt,POW,Cryptopia
- ItiCoin (ITI), iticoin,ITI,POS,POS,Cryptopia
- IXCoin (IXC), ixcoin,IXC,SHA256,POW,Cryptopia
- IZEcoin (IZE), izecoin,IZE,POS,POS,Cryptopia
- JetCoin (JET), jetcoin,JET,None,Asset,Cryptopia
- JinCoin (JIN), jincoin,JIN,SHA256,POW,Cryptopia
- JouleCoin (XJO), joulecoin,XJO,SHA256,POW,Cryptopia
- KangarooBits (KGB), kangaroobits,KGB,Qubit,Hybrid,Cryptopia
- Karbowanec (KRB), karbowanec,KRB,CryptoNight,POW,Cryptopia
- KarmaCoin (KARM), karmacoin,KARM,X11,POW,Cryptopia
- KashCoin (KASH), kashcoin,KASH,X11,POW,Cryptopia
- Kayicoin (KAYI), kayicoin,KAYI,POS,POS,Cryptopia
- Kekcoin (KEK), kekcoin,KEK,POS,POS,Cryptopia
- King93 (KING), king93,KING,None,Asset,Cryptopia
- Kittehcoin (MEOW), kittehcoin,MEOW,Scrypt,POW,Cryptopia
- KlondikeCoin (KDC), klondikecoin,KDC,Scrypt,POW,Cryptopia
- KoboCoin (KOBO), kobocoin,KOBO,Scrypt,POW,Cryptopia
- Komodo (KMD), komodo,KMD,Equihash,POW,Cryptopia
- Kronecoin (KRONE), kronecoin,KRONE,Scrypt,POW,Cryptopia
- Kubera (KBR), kubera,KBR,Other,Asset,Cryptopia
- KumaCoin (KUMA), kumacoin,KUMA,Quark,Hybrid,Cryptopia
- Kurrent (KURT), kurrent,KURT,X11,POW,Cryptopia
- KushCoin (KUSH), kushcoin,KUSH,POS,POS,Cryptopia
- KyberNetworkCrystal (KNC), kybernetworkcrystal,KNC,None,Asset,Cryptopia
- LADACoin (LDC), ladacoin,LDC,Scrypt,POW,Cryptopia
- LanaCoin (LANA), lanacoin,LANA,SHA256,Hybrid,Cryptopia
- LBRY Credits (LBC), lbry credits,LBC,Other,POW,Cryptopia
- Le Pen Coin (LEPEN), le pen coin,LEPEN,POS,POS,Cryptopia
- LeaCoin (LEA), leacoin,LEA,SHA256,POW,Cryptopia
- Leafcoin (LEAF), leafcoin,LEAF,Scrypt,POW,Cryptopia
- LemonCoin (LEMON), lemoncoin,LEMON,Other,POW,Cryptopia
- LeviarCoin (XLC), leviarcoin,XLC,CryptoNight,POW,Cryptopia
- LFTCCoin (LFTC), lftccoin,LFTC,Scrypt,POS,Cryptopia
- LindaCoin (LINDA), lindacoin,LINDA,Scrypt,Hybrid,Cryptopia
- Linx (LINX), linx,LINX,Scrypt,POW,Cryptopia
- LiteBar (LTB), litebar,LTB,Scrypt,POW,Cryptopia
- LiteBitcoin (LBTC), litebitcoin,LBTC,Scrypt,POW,Cryptopia
- Litecoin (LTC), litecoin,LTC,Scrypt,POW,Cryptopia
- litecoinPlus (LCP), litecoinplus,LCP,Scrypt,Hybrid,Cryptopia
- LitecoinUltra (LTCU), litecoinultra,LTCU,Scrypt,POW,Cryptopia
- LiteDoge (LDOGE), litedoge,LDOGE,Scrypt,POS,Cryptopia
- Lithiumcoin (LIT), lithiumcoin,LIT,Blake256,POW,Cryptopia
- LiZi (LIZI), lizi,LIZI,X15,Hybrid,Cryptopia
- LookCoin (LOOK), lookcoin,LOOK,X11,Hybrid,Cryptopia
- Lottocoin (LOT), lottocoin,LOT,Scrypt,POW,Cryptopia
- Luxcoin (LUX), luxcoin,LUX,Other,Hybrid,Cryptopia
- Lycancoin (LYC), lycancoin,LYC,Scrypt,POW,Cryptopia
- MachineCoin (MAC), machinecoin,MAC,Other,POW,Cryptopia
- Macron (MCRN), macron,MCRN,POS,POS,Cryptopia
- Magi (XMG), magi,XMG,M7M,POS,Cryptopia
- MagicCoin (MAGE), magiccoin,MAGE,Scrypt,Hybrid,Cryptopia
- MagnetCoin (MAGN), magnetcoin,MAGN,SHA256,Hybrid,Cryptopia
- MaidSafeCoin (MAID), maidsafecoin,MAID,None,Asset,Cryptopia
- MarijuanaCoin (MAR), marijuanacoin,MAR,X11,Hybrid,Cryptopia
- Mars (MARS), mars,MARS,Scrypt,POW,Cryptopia
- MarxCoin (MARX), marxcoin,MARX,X11,POW,Cryptopia
- MasterNodeCoin (MTNC), masternodecoin,MTNC,SHA256,POS,Cryptopia
- MatrixCoin (MATRX), matrixcoin,MATRX,Scrypt,POW,Cryptopia
- MazaCoin (MZC), mazacoin,MZC,SHA256,POW,Cryptopia
- MegaCoin (MEC), megacoin,MEC,Scrypt,POW,Cryptopia
- MegaX (MGX), megax,MGX,Other,POW,Cryptopia
- Melite (MLITE), melite,MLITE,SHA256,Hybrid,Cryptopia
- Metal (MTL), metal,MTL,None,Asset,Cryptopia
- MetalMusicCoin (MTLMC), metalmusiccoin,MTLMC,Scrypt,Hybrid,Cryptopia
- Minereum (MNE), minereum,MNE,Scrypt,POW,Cryptopia
- Mineum (MNM), mineum,MNM,X13,Hybrid,Cryptopia
- Minex (MINEX), minex,MINEX,None,Asset,Cryptopia
- Mintcoin (MINT), mintcoin,MINT,POS,POS,Cryptopia
- MobileGo (MGO), mobilego,MGO,None,Asset,Cryptopia
- MOIN (MOIN), moin,MOIN,POS,POS,Cryptopia
- MojoCoin (MOJO), mojocoin,MOJO,Scrypt,POS,Cryptopia
- MonacoCoin (XMCC), monacocoin,XMCC,X11,Hybrid,Cryptopia
- Monero (XMR), monero,XMR,CryptoNight,POW,Cryptopia
- Money ($$$), money,$$$,Scrypt,POW,Cryptopia
- MonkeyProject (MONK), monkeyproject,MONK,X11,POW,Cryptopia
- Mothership (MSP), mothership,MSP,Ethash,Asset,Cryptopia
- MotoCoin (MOTO), motocoin,MOTO,Scrypt,POW,Cryptopia
- Murraycoin (MRY), murraycoin,MRY,Scrypt,POW,Cryptopia
- Musicoin (MUSIC), musicoin,MUSIC,Ethash,POW,Cryptopia
- Musiconomi (MCI), musiconomi,MCI,None,Asset,Cryptopia
- Mustangcoin (MST), mustangcoin,MST,X11,POS,Cryptopia
- MyBit (MYB), mybit,MYB,None,Asset,Cryptopia
- Myriad (XMY), myriad,XMY,Other,POW,Cryptopia
- MyWishToken (WISH), mywishtoken,WISH,None,POW,Cryptopia
- NameCoin (NMC), namecoin,NMC,SHA256,POW,Cryptopia
- NAMO COIN (NAMO), namo coin,NAMO,Nist5,Hybrid,Cryptopia
- NavCoin (NAV), navcoin,NAV,X13,POS,Cryptopia
- Neblio (NEBL), neblio,NEBL,POS,POS,Cryptopia
- Neo (NEO), neo,NEO,Scrypt,POW,Cryptopia
- NetCoin (NET), netcoin,NET,Scrypt,Hybrid,Cryptopia
- Netko (NETKO), netko,NETKO,Blake2s,Hybrid,Cryptopia
- NeuroDAO (NDAO), neurodao,NDAO,None,Asset,Cryptopia
- Neutron (NTRN), neutron,NTRN,POS,POS,Cryptopia
- NevaCoin (NEVA), nevacoin,NEVA,Blake2s,Hybrid,Cryptopia
- NewEconomyMovement (XEM), neweconomymovement,XEM,Other,DPOS,Cryptopia
- Nexus (NXS), nexus,NXS,SHA3,Hybrid,Cryptopia
- NobleCoin (NOBL), noblecoin,NOBL,Scrypt,Hybrid,Cryptopia
- NoLimitCoin (NLC2), nolimitcoin,NLC2,SHA256,POS,Cryptopia
- NovaCoin (NVC), novacoin,NVC,Scrypt,Hybrid,Cryptopia
- NuBits (USNBT), nubits,USNBT,POS,POS,Cryptopia
- Numus (NMS), numus,NMS,Skein,Hybrid,Cryptopia
- NuShares (NSR), nushares,NSR,POS,POS,Cryptopia
- NyanCoin (NYAN), nyancoin,NYAN,Scrypt,POW,Cryptopia
- NZed (NZDT), nzed,NZDT,None,Asset,Cryptopia
- Obsidian (ODN), obsidian,ODN,POS,POS,Cryptopia
- OctoCoin (888), octocoin,888,Scrypt,POW,Cryptopia
- OKCash (OK), okcash,OK,POS,POS,Cryptopia
- Om (OOO), om,OOO,SHA256,POW,Cryptopia
- OmiseGo (OMG), omisego,OMG,None,Asset,Cryptopia
- OP Coin (OPC), op coin,OPC,Scrypt,Hybrid,Cryptopia
- Opalcoin (OPAL), opalcoin,OPAL,Scrypt,POW,Cryptopia
- Open Source Coin (OSC), open source coin,OSC,SHA256,Hybrid,Cryptopia
- Open Trading Network (OTN), open trading network,OTN,None,Asset,Cryptopia
- OrbitCoin (ORB), orbitcoin,ORB,NeoScrypt,Hybrid,Cryptopia
- OrmeusCoin (ORME), ormeuscoin,ORME,Ethash,POW,Cryptopia
- OX Fina (OX), ox fina,OX,None,Asset,Cryptopia
- OysterPearl (PRL), oysterpearl,PRL,None,Asset,Cryptopia
- OzzieCoin (OZC), ozziecoin,OZC,X11,POW,Cryptopia
- PacCoin (PAC), paccoin,PAC,SHA256,POS,Cryptopia
- PakCoin (PAK), pakcoin,PAK,Scrypt,POW,Cryptopia
- PandaCoin (PND), pandacoin,PND,POS,POS,Cryptopia
- Parallelcoin (DUO), parallelcoin,DUO,Scrypt,POW,Cryptopia
- PascalCoin (PASC), pascalcoin,PASC,Other,POW,Cryptopia
- PascalLite (PASL), pascallite,PASL,Other,POW,Cryptopia
- PayCon (CON), paycon,CON,X13,POS,Cryptopia
- PeerCoin (PPC), peercoin,PPC,SHA256,Hybrid,Cryptopia
- Penguin (PENG), penguin,PENG,Scrypt,POW,Cryptopia
- PepeCoin (PEPE), pepecoin,PEPE,X11,Hybrid,Cryptopia
- PesetaCoin (PTC), pesetacoin,PTC,Scrypt,POW,Cryptopia
- PetroDollar (XPD), petrodollar,XPD,SHA256,POW,Cryptopia
- PhilosopherStone (PHS), philosopherstone,PHS,Scrypt,Hybrid,Cryptopia
- PhoenixCoin (PXC), phoenixcoin,PXC,NeoScrypt,POW,Cryptopia
- Phore (PHR), phore,PHR,POS,POS,Cryptopia
- Photon (PHO), photon,PHO,Blake256,POW,Cryptopia
- PickleRicks (RICKS), picklericks,RICKS,None,Asset,Cryptopia
- PieCoin (PIE), piecoin,PIE,POS,POS,Cryptopia
- PiggyCoin (PIGGY), piggycoin,PIGGY,X11,POS,Cryptopia
- Pillar (PLR), pillar,PLR,Scrypt,POW,Cryptopia
- PinkCoin (PINK), pinkcoin,PINK,Scrypt,POW,Cryptopia
- PioneerCoin (PCOIN), pioneercoin,PCOIN,Scrypt,POW,Cryptopia
- Pirl (PIRL), pirl,PIRL,Dagger,POW,Cryptopia
- PIVX (PIVX), pivx,PIVX,Quark,Hybrid,Cryptopia
- PlatinumBar (XPTX), platinumbar,XPTX,Scrypt,POW,Cryptopia
- PlexCoin (PLX), plexcoin,PLX,Other,Asset,Cryptopia
- Polcoin (PLC), polcoin,PLC,SHA256,POW,Cryptopia
- PolishCoin (PCC), polishcoin,PCC,Scrypt,POW,Cryptopia
- PopularCoin (POP), popularcoin,POP,Scrypt,POW,Cryptopia
- PostCoin (POST), postcoin,POST,POS,POS,Cryptopia
- PoSWallet (POSW), poswallet,POSW,POS,POS,Cryptopia
- Potcoin (POT), potcoin,POT,Scrypt,POS,Cryptopia
- PowerLedger (POWR), powerledger,POWR,None,Asset,Cryptopia
- Prime-XI (PXI), prime-xi,PXI,X11,POW,Cryptopia
- PrimeCoin (XPM), primecoin,XPM,Other,POW,Cryptopia
- ProCurrency (PROC), procurrency,PROC,POS,POS,Cryptopia
- Prototanium (PR), prototanium,PR,SHA256,POW,Cryptopia
- Publica (PBL), publica,PBL,Other,POW,Cryptopia
- Pura (PURA), pura,PURA,X11,POW,Cryptopia
- PureVidz (VIDZ), purevidz,VIDZ,Other,POS,Cryptopia
- PutinCoin (PUT), putincoin,PUT,Scrypt,Hybrid,Cryptopia
- Qtum (QTUM), qtum,QTUM,None,Asset,Cryptopia
- Quark (QRK), quark,QRK,Quark,POW,Cryptopia
- Quatloo (QTL), quatloo,QTL,Scrypt,POW,Cryptopia
- Qubitcoin (Q2C), qubitcoin,Q2C,Qubit,POW,Cryptopia
- Qwark (QWARK), qwark,QWARK,None,Asset,Cryptopia
- Rabbitcoin (RBBT), rabbitcoin,RBBT,Scrypt,POW,Cryptopia
- RateCoin (XRA), ratecoin,XRA,POS,POS,Cryptopia
- RedCoin (RED), redcoin,RED,Scrypt,POW,Cryptopia
- Reddcoin (RDD), reddcoin,RDD,POS,POS,Cryptopia
- RenosCoin (RNS), renoscoin,RNS,POS,POS,Cryptopia
- Revain (R), revain,R,Scrypt,POW,Cryptopia
- Revolvercoin (XRE), revolvercoin,XRE,Other,POW,Cryptopia
- Rimbit (RBT), rimbit,RBT,Scrypt,POS,Cryptopia
- RonPaulCoin (RPC), ronpaulcoin,RPC,Scrypt,POW,Cryptopia
- RoyalKingdomCoin (RKC), royalkingdomcoin,RKC,None,Asset,Cryptopia
- Royalties (XRY), royalties,XRY,CryptoNight,Hybrid,Cryptopia
- RubyCoin (RBY), rubycoin,RBY,POS,POS,Cryptopia
- Rupee (RUP), rupee,RUP,Scrypt,POW,Cryptopia
- RussiaCoin (RC), russiacoin,RC,Scrypt,POS,Cryptopia
- SafeExchangeCoin (SAFEX), safeexchangecoin,SAFEX,None,Asset,Cryptopia
- SagaCoin (SAGA), sagacoin,SAGA,Scrypt,Hybrid,Cryptopia
- SakuraCoin (SKR), sakuracoin,SKR,Scrypt,POW,Cryptopia
- Sativacoin (STV), sativacoin,STV,X13,POS,Cryptopia
- SBC Coin (SBC), sbc coin,SBC,Other,Hybrid,Cryptopia
- Scorecoin (SCORE), scorecoin,SCORE,Scrypt,POW,Cryptopia
- SecureCoin (SRC), securecoin,SRC,Scrypt,POW,Cryptopia
- Selencoin (SEL), selencoin,SEL,POS,POS,Cryptopia
- Senderon (SDRN), senderon,SDRN,None,Asset,Cryptopia
- Sexcoin (SXC), sexcoin,SXC,Scrypt,POW,Cryptopia
- SHACoin2 (SHA), shacoin2,SHA,SHA256,POS,Cryptopia
- SharkCoin (SAK), sharkcoin,SAK,Scrypt,POW,Cryptopia
- Shrooms (SHRM), shrooms,SHRM,Scrypt,POW,Cryptopia
- SiberianChervonets (SIB), siberianchervonets,SIB,X11,POW,Cryptopia
- SixEleven (611), sixeleven,611,SHA256,POW,Cryptopia
- SJWCoin (SJW), sjwcoin,SJW,Scrypt,POW,Cryptopia
- SkeinCoin (SKC), skeincoin,SKC,Skein,POW,Cryptopia
- SkinCoin (SKIN), skincoin,SKIN,None,Asset,Cryptopia
- Skycoin (SKY), skycoin,SKY,Other,Other,Cryptopia
- SlothCoin (SLOTH), slothcoin,SLOTH,Keccak,POW,Cryptopia
- SmartCash (SMART), smartcash,SMART,Keccak,POW,Cryptopia
- SmartCoin (SMC), smartcoin,SMC,X11,POW,Cryptopia
- Social (SCL), social,SCL,Other,POW,Cryptopia
- SocialSend (SEND), socialsend,SEND,Quark,POS,Cryptopia
- SoilCoin (SOIL), soilcoin,SOIL,Scrypt,POW,Cryptopia
- SolarflareCoin (SFC), solarflarecoin,SFC,Scrypt,POW,Cryptopia
- Solaris (XLR), solaris,XLR,Nist5,Hybrid,Cryptopia
- Songcoin (SONG), songcoin,SONG,Scrypt,POW,Cryptopia
- SoonCoin (SOON), sooncoin,SOON,SHA256,POW,Cryptopia
- SpaceCoin (SPACE), spacecoin,SPACE,Scrypt,Hybrid,Cryptopia
- SpankChain (SPANK), spankchain,SPANK,POS,POS,Cryptopia
- SpartanCoin (SPN), spartancoin,SPN,Scrypt,POW,Cryptopia
- SpectreCoin (XSPEC), spectrecoin,XSPEC,POS,POS,Cryptopia
- Sphre (XID), sphre,XID,None,Asset,Cryptopia
- Spots (SPT), spots,SPT,Scrypt,POW,Cryptopia
- SpreadCoin (SPR), spreadcoin,SPR,X11,POW,Cryptopia
- SquallCoin (SQL), squallcoin,SQL,X11,Hybrid,Cryptopia
- StarCredits (STRC), starcredits,STRC,None,Asset,Cryptopia
- StartCoin (START), startcoin,START,X11,POW,Cryptopia
- StealthCoin (XST), stealthcoin,XST,Scrypt,POW,Cryptopia
- Steneum (STN), steneum,STN,Scrypt,POW,Cryptopia
- Sterlingcoin (SLG), sterlingcoin,SLG,POS,POS,Cryptopia
- StopTrumpCoin (STC), stoptrumpcoin,STC,POS,POS,Cryptopia
- Stratis (STRAT), stratis,STRAT,POS,POS,Cryptopia
- Sumokoin (SUMO), sumokoin,SUMO,CryptoNight,POW,Cryptopia
- SwagBucks (BUCKS), swagbucks,BUCKS,Scrypt,Hybrid,Cryptopia
- Swingcoin (SWING), swingcoin,SWING,SHA256,POS,Cryptopia
- Syndicate (SYNX), syndicate,SYNX,POS,POS,Cryptopia
- Synereo AMP (AMP), synereo amp,AMP,None,Asset,Cryptopia
- Tajcoin (TAJ), tajcoin,TAJ,Blake2s,Hybrid,Cryptopia
- TattooCoin (TSE), tattoocoin,TSE,Scrypt,Hybrid,Cryptopia
- TEKcoin (TEK), tekcoin,TEK,SHA256,Hybrid,Cryptopia
- TenX (PAY), tenx,PAY,None,Asset,Cryptopia
- TerraCoin (TRC), terracoin,TRC,SHA256,POW,Cryptopia
- TerraNova (TER), terranova,TER,Scrypt,Hybrid,Cryptopia
- TeslaCoin (TES), teslacoin,TES,Scrypt,POS,Cryptopia
- Tether (USDT), tether,USDT,Scrypt,POW,Cryptopia
- TheChiefCoin (CHIEF), thechiefcoin,CHIEF,Scrypt,Hybrid,Cryptopia
- TigerCoin (TGC), tigercoin,TGC,SHA256,POW,Cryptopia
- TitCoin (TIT), titcoin,TIT,SHA256,POW,Cryptopia
- TittieCoin (TTC), tittiecoin,TTC,Scrypt,POW,Cryptopia
- TOACoin (TOA), toacoin,TOA,Scrypt,Hybrid,Cryptopia
- TokugawaCoin (TOK), tokugawacoin,TOK,Scrypt,POW,Cryptopia
- TopCoin (TOP), topcoin,TOP,Scrypt,Hybrid,Cryptopia
- TransferCoin (TX), transfercoin,TX,X11,POS,Cryptopia
- Trezarcoin (TZC), trezarcoin,TZC,NeoScrypt,POW,Cryptopia
- Triangles (TRI), triangles,TRI,POS,POS,Cryptopia
- Trinity (TTY), trinity,TTY,SHA256,POW,Cryptopia
- TruckCoin (TRK), truckcoin,TRK,Scrypt,POS,Cryptopia
- Trumpcoin (TRUMP), trumpcoin,TRUMP,Blake256,POS,Cryptopia
- TurboStake (TRBO), turbostake,TRBO,POS,POS,Cryptopia
- Ubiq (UBQ), ubiq,UBQ,Dagger,POW,Cryptopia
- Ultracoin (UTC), ultracoin,UTC,Scrypt_jane,Hybrid,Cryptopia
- Unbreakablecoin (UNB), unbreakablecoin,UNB,SHA256,POW,Cryptopia
- UniCoin (UNIC), unicoin,UNIC,SHA256,POW,Cryptopia
- Unify (UNIFY), unify,UNIFY,Scrypt,POS,Cryptopia
- Unitus (UIS), unitus,UIS,Other,Hybrid,Cryptopia
- UniversalCurrency (UNIT), universalcurrency,UNIT,SHA256,Hybrid,Cryptopia
- UniversalMolecule (UMO), universalmolecule,UMO,Blake256,POW,Cryptopia
- Unobtanium (UNO), unobtanium,UNO,SHA256,POW,Cryptopia
- Upfiring (UFR), upfiring,UFR,None,Asset,Cryptopia
- UR (UR), ur,UR,Other,POW,Cryptopia
- VaderCorpCoin (VCC), vadercorpcoin,VCC,Scrypt,POS,Cryptopia
- VapersCoin (VPRC), vaperscoin,VPRC,Scrypt,POW,Cryptopia
- Verge (XVG), verge,XVG,Blake256,POW,Cryptopia
- VeriCoin (VRC), vericoin,VRC,Scrypt,POS,Cryptopia
- Verium (VRM), verium,VRM,Scrypt,POW,Cryptopia
- Version (V), version,V,SHA256,Hybrid,Cryptopia
- Vibranium (XVI), vibranium,XVI,POS,POS,Cryptopia
- VirtaUniqueCoin (VUC), virtauniquecoin,VUC,Nist5,Hybrid,Cryptopia
- Visio (VISIO), visio,VISIO,X13,Hybrid,Cryptopia
- Vivo (VIVO), vivo,VIVO,NeoScrypt,POW,Cryptopia
- VOISE (VOISE), voise,VOISE,Scrypt,POW,Cryptopia
- VOISE (VSM), voise,VSM,None,Asset,Cryptopia
- WarCoin (WRC), warcoin,WRC,Scrypt,Hybrid,Cryptopia
- WayaWolfCoin (WW), wayawolfcoin,WW,Scrypt,POW,Cryptopia
- WeAreSatoshi (WSX), wearesatoshi,WSX,X11,Hybrid,Cryptopia
- Weed (WEED), weed,WEED,None,Asset,Cryptopia
- WildCrypto (WILD), wildcrypto,WILD,None,Asset,Cryptopia
- Wincoin (WC), wincoin,WC,Scrypt,POW,Cryptopia
- WirelessCoin (WLC), wirelesscoin,WLC,None,Asset,Cryptopia
- WorldCoin (WDC), worldcoin,WDC,Scrypt,POW,Cryptopia
- Xcoin (XCO), xcoin,XCO,SHA256,Hybrid,Cryptopia
- XGOX (XGOX), xgox,XGOX,Scrypt,Hybrid,Cryptopia
- XTRABYTES (XBY), xtrabytes,XBY,Scrypt,POW,Cryptopia
- YobitCoin (YOVI), yobitcoin,YOVI,POS,POS,Cryptopia
- Zap (ZAP), zap,ZAP,None,Asset,Cryptopia
- ZCash (ZEC), zcash,ZEC,Equihash,POW,Cryptopia
- Zclassic (ZCL), zclassic,ZCL,Equihash,POW,Cryptopia
- ZCoin (XZC), zcoin,XZC,Lyra2RE,POW,Cryptopia
- ZeitCoin (ZEIT), zeitcoin,ZEIT,Scrypt,POS,Cryptopia
- ZenCash (ZEN), zencash,ZEN,Equihash,POW,Cryptopia
- Zero (ZER), zero,ZER,Equihash,POW,Cryptopia
- ZetaCoin (ZET), zetacoin,ZET,SHA256,POW,Cryptopia
- Zoin (ZOI), zoin,ZOI,Lyra2RE,POW,Cryptopia
- ZSEcoin (ZSE), zsecoin,ZSE,X11,Hybrid,Cryptopia
+Ticker,Algo,Network,Exchange,Name
+1337,POS,POS,Cryptopia,1337coin
+300,None,Asset,Cryptopia,300-token
+42,Scrypt,Hybrid,Cryptopia,42-coin
+808,SHA256,Hybrid,Cryptopia,808coin
+8BIT,POS,POS,Cryptopia,8bit
+ACOIN,SHA256,POW,Cryptopia,acoin
+ACC,Scrypt,POW,Cryptopia,accelerator-network
+ADST,None,Asset,Cryptopia,adshares
+ALIS,None,Asset,Cryptopia,alis
+ALL,Scrypt,Hybrid,Cryptopia,allion
+ABC,None,Asset,Cryptopia,alphabitcoinfund
+ALT,None,Asset,Cryptopia,altcoin-alt
+ACP,SHA256,POW,Cryptopia,anarchistsprime
+ANI,Other,POW,Cryptopia,animecoin
+APX,None,Asset,Cryptopia,apx
+ARCO,POS,POS,Cryptopia,aquariuscoin
+ARC,X11,Hybrid,Cryptopia,arcade-token
+ARG,Scrypt,POW,Cryptopia,argentum
+ARGUS,Scrypt,POW,Cryptopia,argus
+ARI,Scrypt,POW,Cryptopia,aricoin
+ARK,None,DPOS,Cryptopia,ark
+ABY,Scrypt,POW,Cryptopia,artbyte
+AC,POS,POS,Cryptopia,asiacoin
+ATMS,Scrypt,POS,Cryptopia,atmos
+ATOM,Scrypt,Hybrid,Cryptopia,atomic-coin
+ADC,Scrypt,Hybrid,Cryptopia,audiocoin
+REP,Scrypt,POW,Cryptopia,augur
+AUR,Scrypt,POW,Cryptopia,auroracoin
+AU,SHA256,POW,Cryptopia,aurumcoin
+B3,Scrypt,POS,Cryptopia,b3coin
+BTA,Scrypt,Hybrid,Cryptopia,bata
+BAT,Scrypt,POW,Cryptopia,basic-attention-token
+BCH,SHA256,POW,Cryptopia,bitcoin-cash
+XBTS,X11,POS,Cryptopia,beatcoin
+BVC,Scrypt,POW,Cryptopia,beavercoin
+BENJI,Scrypt,POW,Cryptopia,benjirolls
+BERN,Other,Hybrid,Cryptopia,berncash
+BEST,Scrypt,Hybrid,Cryptopia,bestchain
+XBL,None,Asset,Cryptopia,billionaire-token
+BIP,CryptoNight,POW,Cryptopia,bipcoin
+BIS,Other,POW,Cryptopia,bismuth
+BTB,Scrypt,Hybrid,Cryptopia,bitbar
+BAY,Scrypt,POW,Cryptopia,bitbay
+BITB,POS,POS,Cryptopia,bitbean
+BXC,CryptoNight,POW,Cryptopia,bitcedi
+BTDX,Scrypt,POW,Cryptopia,bitcloud
+COAL,CryptoNight,POW,Cryptopia,bitcoal
+BTC,SHA256,POW,Cryptopia,bitcoin
+BCF,Scrypt,Hybrid,Cryptopia,bitcoinfast
+BTCS,Scrypt,POW,Cryptopia,bitcoin-scrypt
+BTCD,POS,POS,Cryptopia,bitcoindark
+XBC,POS,POS,Cryptopia,bitcoin-plus
+BTX,Other,POW,Cryptopia,bitcore
+BDL,Scrypt,POW,Cryptopia,bitdeal
+BTG,Scrypt,Hybrid,Cryptopia,bitcoin-gold
+BRO,POS,POS,Cryptopia,bitradio
+BSD,Other,POW,Cryptopia,bitsend
+BITS,Scrypt,POS,Cryptopia,bitstar
+BLK,POS,POS,Cryptopia,blackcoin
+BLC,Blake256,POW,Cryptopia,blakecoin
+BLZ,Scrypt,POW,Cryptopia,blazecoin
+BCPT,None,Asset,Cryptopia,blockmason
+BPL,Other,DPOS,Cryptopia,blockpool
+TIX,None,Asset,Cryptopia,blocktix
+BNX,X11,POW,Cryptopia,bnrtxcoin
+BOLI,X11,POW,Cryptopia,bolivarcoin
+BGR,Scrypt,POW,Cryptopia,bongger
+BON,None,Asset,Cryptopia,bonpay
+BBR,CryptoNight,POW,Cryptopia,boolberry
+BWK,Nist5,POW,Cryptopia,bulwark
+BUMBA,X11,POS,Cryptopia,bumbacoin
+BUN,Scrypt,POW,Cryptopia,bunnycoin
+GBYTE,Scrypt,POW,Cryptopia,byteball
+BTM,None,Asset,Cryptopia,bytom
+XCT,SHA256,POW,Cryptopia,c-bit
+CACH,Scrypt_jane,Hybrid,Cryptopia,cachecoin
+CMPCO,Scrypt,POW,Cryptopia,campuscoin
+CDN,Scrypt,POW,Cryptopia,canada-ecoin
+CANN,X11,POW,Cryptopia,cannabiscoin
+CCN,Scrypt,POW,Cryptopia,cannacoin
+CNNC,POS,POS,Cryptopia,cannation
+CAPP,None,Asset,Cryptopia,cappasity
+CSC,Scrypt,POW,Cryptopia,casinocoin
+CAT,Scrypt,POW,Cryptopia,blockcat
+CTR,None,Asset,Cryptopia,centra
+CHC,C11,POW,Cryptopia,chaincoin
+4CHN,Scrypt,POW,Cryptopia,chancoin
+CHESS,Scrypt,POS,Cryptopia,chesscoin
+CRX,Scrypt,POW,Cryptopia,chronos
+CLAM,Scrypt,Hybrid,Cryptopia,clams
+POLL,Other,POW,Cryptopia,clearpoll
+CLOAK,POS,POS,Cryptopia,cloakcoin
+CTIC3,None,Asset,Cryptopia,coimatic-3
+C2,Scrypt,Hybrid,Cryptopia,coin2-1
+CNO,X11,Hybrid,Cryptopia,coin
+CXT,Nist5,POW,Cryptopia,coinonat
+XCXT,X11,Hybrid,Cryptopia,coinonatx
+CV2,Scrypt,Hybrid,Cryptopia,colossuscoin-v2
+CMT,Scrypt,POW,Cryptopia,cybermiles
+CMP,Scrypt,POW,Cryptopia,compcoin
+CPN,Scrypt,POW,Cryptopia,compucoin
+RAIN,X11,POS,Cryptopia,condensate
+CC,Scrypt,Hybrid,Cryptopia,cybercoin
+XCPO,POS,POS,Cryptopia,copico
+CORG,Scrypt,POS,Cryptopia,corgicoin
+COR,None,Asset,Cryptopia,corion
+CRAVE,Scrypt,POS,Cryptopia,crave
+CRM,X11,POW,Cryptopia,cream
+XCRE,POS,POS,Cryptopia,creatio
+CREA,Keccak,POW,Cryptopia,creativecoin
+CRC,NeoScrypt,POW,Cryptopia,crowdcoin
+CRYPT,X11,Hybrid,Cryptopia,cryptcoin
+CBX,POS,POS,Cryptopia,cryptogenic-bullion
+CFT,None,Asset,Cryptopia,cryptoforecast
+CJ,X13,Hybrid,Cryptopia,cryptojacks
+OFF,Quark,POW,Cryptopia,cthulhu-offerings
+QBT,POS,POS,Cryptopia,qbao
+FUNK,Scrypt,POW,Cryptopia,the-cypherfunks
+DALC,None,Asset,Cryptopia,dalecoin
+KED,Scrypt,Hybrid,Cryptopia,darsek
+DASH,X11,POW,Cryptopia,dash
+DSH,CryptoNight,POW,Cryptopia,dashcoin
+DAXX,Ethash,POW,Cryptopia,daxxcoin
+DRP,Equihash,Asset,Cryptopia,dcorp
+DDF,None,Asset,Cryptopia,digital-developers-fund
+DBET,Other,POW,Cryptopia,decent-bet
+HST,Other,POW,Cryptopia,decision-token
+DCR,Blake256,Hybrid,Cryptopia,decred
+ONION,X13,Hybrid,Cryptopia,deeponion
+DNR,Scrypt,Hybrid,Cryptopia,denarius-dnr
+DCN,None,Asset,Cryptopia,dentacoin
+DEUS,Other,POW,Cryptopia,deuscoin
+DEM,SHA256,Hybrid,Cryptopia,deutsche-emark
+DFS,Scrypt,Hybrid,Cryptopia,dfscoin
+DIBC,Scrypt,POW,Cryptopia,dibcoin
+DGB,Scrypt,POW,Cryptopia,digibyte
+DGPT,Other,POW,Cryptopia,digipulse
+DGC,Scrypt,POW,Cryptopia,digitalcoin
+DP,SHA256,POS,Cryptopia,digitalprice
+DIME,Quark,POW,Cryptopia,dimecoin
+DCY,CryptoNight,POW,Cryptopia,dinastycoin
+DIVX,Other,POW,Cryptopia,divi
+NOTE,Scrypt,POW,Cryptopia,dnotes
+DOGE,Scrypt,POW,Cryptopia,dogecoin
+DON,Scrypt,POW,Cryptopia,donationcoin
+DOPE,Scrypt,POW,Cryptopia,dopecoin
+DOT,None,Asset,Cryptopia,dotcoin
+DRXNE,POS,POS,Cryptopia,droxne
+DBIX,Dagger,POW,Cryptopia,dubaicoin-dbix
+EFL,Scrypt,POW,Cryptopia,e-gulden
+ECOB,None,Asset,Cryptopia,ecobit
+ECO,Scrypt,Hybrid,Cryptopia,ecocoin
+EDRC,SHA256,Hybrid,Cryptopia,edrcoin
+EMC2,Scrypt,POW,Cryptopia,einsteinium
+ELC,Scrypt,POW,Cryptopia,elacoin
+ETN,CryptoNight,Other,Cryptopia,electroneum
+ELLA,Ethash,POW,Cryptopia,ellaism
+EMB,X13,Hybrid,Cryptopia,embercoin
+MBRS,None,Asset,Cryptopia,embers
+EMD,Scrypt,POW,Cryptopia,emerald
+EMC,SHA256,Hybrid,Cryptopia,emercoin
+ETT,None,Asset,Cryptopia,encryptotel
+ENJ,None,Asset,Cryptopia,enjin-coin
+EQT,X11,Hybrid,Cryptopia,equitrader
+ERY,X11,Hybrid,Cryptopia,eryllium
+ETH,Ethash,POW,Cryptopia,ethereum
+ETC,Dagger,POW,Cryptopia,ethereum-classic
+ETHD,None,Asset,Cryptopia,ethereum-dark
+RIYA,Scrypt,POW,Cryptopia,etheriya
+EUC,SHA256,POW,Cryptopia,eurocoin
+EGC,POS,POS,Cryptopia,evergreencoin
+EVR,None,Asset,Cryptopia,everus
+EVIL,X11,POS,Cryptopia,evil-coin
+EVO,SHA256,Hybrid,Cryptopia,evotion
+EXP,Dagger,POW,Cryptopia,expanse
+FCN,Other,POP,Cryptopia,fantomcoin
+FCT,Scrypt,POW,Cryptopia,factom
+FST,Scrypt,POW,Cryptopia,fastcoin
+FAZZ,None,POS,Cryptopia,fazzcoin
+FTC,NeoScrypt,POW,Cryptopia,feathercoin
+FFC,SHA256,POW,Cryptopia,fireflycoin
+FRC,SHA256,POW,Cryptopia,freicoin
+FLASH,Scrypt,POW,Cryptopia,flash
+FLAX,C11,Other,Cryptopia,flaxscript
+FLT,Scrypt,Hybrid,Cryptopia,fluttercoin
+FONZ,SHA256,POS,Cryptopia,fonziecoin
+XFT,POS,POS,Cryptopia,footy-cash
+FRN,Scrypt,POW,Cryptopia,francs
+FUEL,Scrypt,POW,Cryptopia,etherparty
+FJC,Scrypt,POW,Cryptopia,fujicoin
+FUZZ,Scrypt,POW,Cryptopia,fuzzballs
+GAIA,POS,POS,Cryptopia,gaia
+GAME,Scrypt,POW,Cryptopia,gamecredits
+UNITS,None,POS,Cryptopia,gameunits
+GAP,Scrypt,POW,Cryptopia,gapcoin
+GAY,POS,POS,Cryptopia,gaycoin
+GCN,Scrypt,POW,Cryptopia,gcoin
+GEERT,Scrypt,POW,Cryptopia,geertcoin
+DNA,Scrypt,POW,Cryptopia,encrypgen
+GEO,Qubit,POW,Cryptopia,geocoin
+BSTY,Yescrypt,POW,Cryptopia,globalboost-y
+GNO,None,Asset,Cryptopia,gnosis-gno
+GBX,NeoScrypt,POW,Cryptopia,gobyte
+GLD,Scrypt,POW,Cryptopia,goldcoin
+GP,X11,POS,Cryptopia,goldpieces
+GPL,Scrypt_jane,Hybrid,Cryptopia,gold-pressed-latinum
+XGR,X11,POS,Cryptopia,goldreserve
+GNT,None,Asset,Cryptopia,golem-network-tokens
+GPU,Scrypt_n,POW,Cryptopia,gpu-coin
+GRN,X11,POW,Cryptopia,granitecoin
+GRS,Groestl,POW,Cryptopia,groestlcoin
+GRWI,Scrypt,POW,Cryptopia,growers-international
+GUN,NeoScrypt,POW,Cryptopia,guncoin
+HAL,NeoScrypt,Hybrid,Cryptopia,halcyon
+HEAT,Scrypt,POW,Cryptopia,heat-ledger
+HXX,Lyra2Zoin,POW,Cryptopia,hexx
+HBN,Scrypt,Hybrid,Cryptopia,hobonickels
+HDLB,None,Asset,Cryptopia,hodl-bucks
+HBC,X11,Hybrid,Cryptopia,homeblockcoin
+HSR,Scrypt,POW,Cryptopia,hshare
+HUSH,Equihash,Other,Cryptopia,hush
+HYP,POS,POS,Cryptopia,hyperstake
+I0C,SHA256,POW,Cryptopia,i0coin
+ICOB,Scrypt,Hybrid,Cryptopia,icobid
+NKA,SHA256,Hybrid,Cryptopia,incakoin
+IMS,Scrypt,Hybrid,Cryptopia,independent-money-system
+IFC,Scrypt,POW,Cryptopia,infinitecoin
+IFLT,X11,Hybrid,Cryptopia,inflationcoin
+INFX,X11,Hybrid,Cryptopia,influxcoin
+INN,Scrypt,POW,Cryptopia,innova
+INSN,X11,Hybrid,Cryptopia,insanecoin-insn
+HOLD,Scrypt,Hybrid,Cryptopia,interstellar-holdings
+IFT,Other,Asset,Cryptopia,investfeed
+IQT,None,Asset,Cryptopia,iquant
+IRL,Scrypt,POW,Cryptopia,irishcoin
+ITI,POS,POS,Cryptopia,iticoin
+IXC,SHA256,POW,Cryptopia,ixcoin
+JET,None,Asset,Cryptopia,jetcoin
+JIN,SHA256,POW,Cryptopia,jin-coin
+XJO,SHA256,POW,Cryptopia,joulecoin
+KRB,CryptoNight,POW,Cryptopia,karbowanec
+KAYI,POS,POS,Cryptopia,kayicoin
+KEK,POS,POS,Cryptopia,kekcoin
+MEOW,Scrypt,POW,Cryptopia,kittehcoin
+KOBO,Scrypt,POW,Cryptopia,kobocoin
+KMD,Equihash,POW,Cryptopia,komodo
+KRONE,Scrypt,POW,Cryptopia,kronecoin
+KBR,Other,Asset,Cryptopia,kubera-coin
+KURT,X11,POW,Cryptopia,kurrent
+KUSH,POS,POS,Cryptopia,kushcoin
+KNC,None,Asset,Cryptopia,kyber-network
+LANA,SHA256,Hybrid,Cryptopia,lanacoin
+LBC,Other,POW,Cryptopia,library-credit
+LEPEN,POS,POS,Cryptopia,lepen
+LEA,SHA256,POW,Cryptopia,leacoin
+XLC,CryptoNight,POW,Cryptopia,leviarcoin
+LINDA,Scrypt,Hybrid,Cryptopia,linda
+LINX,Scrypt,POW,Cryptopia,linx
+LTB,Scrypt,POW,Cryptopia,litebar
+LBTC,Scrypt,POW,Cryptopia,litebitcoin
+LTC,Scrypt,POW,Cryptopia,litecoin
+LCP,Scrypt,Hybrid,Cryptopia,litecoin-plus
+LTCU,Scrypt,POW,Cryptopia,litecoin-ultra
+LDOGE,Scrypt,POS,Cryptopia,litedoge
+LOT,Scrypt,POW,Cryptopia,lottocoin
+LUX,Other,Hybrid,Cryptopia,luxcoin
+MAC,Other,POW,Cryptopia,machinecoin
+MCRN,POS,POS,Cryptopia,macron
+XMG,M7M,POS,Cryptopia,magi
+MAGE,Scrypt,Hybrid,Cryptopia,magiccoin
+MAGN,SHA256,Hybrid,Cryptopia,magnetcoin
+MAID,None,Asset,Cryptopia,maidsafecoin
+MAR,X11,Hybrid,Cryptopia,marijuanacoin
+MARS,Scrypt,POW,Cryptopia,marscoin
+MARX,X11,POW,Cryptopia,marxcoin
+MTNC,SHA256,POS,Cryptopia,masternodecoin
+MZC,SHA256,POW,Cryptopia,mazacoin
+MEC,Scrypt,POW,Cryptopia,megacoin
+MTL,None,Asset,Cryptopia,metal
+MNE,Scrypt,POW,Cryptopia,minereum
+MNM,X13,Hybrid,Cryptopia,mineum
+MINEX,None,Asset,Cryptopia,minex
+MINT,POS,POS,Cryptopia,mintcoin
+MGO,None,Asset,Cryptopia,mobilego
+MOIN,POS,POS,Cryptopia,moin
+MOJO,Scrypt,POS,Cryptopia,mojocoin
+XMCC,X11,Hybrid,Cryptopia,monacocoin
+XMR,CryptoNight,POW,Cryptopia,monero
+$$$,Scrypt,POW,Cryptopia,money
+MONK,X11,POW,Cryptopia,monkey-project
+MSP,Ethash,Asset,Cryptopia,mothership
+MOTO,Scrypt,POW,Cryptopia,motocoin
+MUSIC,Ethash,POW,Cryptopia,musicoin
+MCI,None,Asset,Cryptopia,musiconomi
+MST,X11,POS,Cryptopia,mustangcoin
+MYB,None,Asset,Cryptopia,mybit-token
+XMY,Other,POW,Cryptopia,myriad
+WISH,None,POW,Cryptopia,mywish
+NMC,SHA256,POW,Cryptopia,namecoin
+NAMO,Nist5,Hybrid,Cryptopia,namocoin
+NAV,X13,POS,Cryptopia,nav-coin
+NEBL,POS,POS,Cryptopia,neblio
+NEO,Scrypt,POW,Cryptopia,neo
+NET,Scrypt,Hybrid,Cryptopia,nimiq
+NETKO,Blake2s,Hybrid,Cryptopia,netko
+NTRN,POS,POS,Cryptopia,neutron
+NEVA,Blake2s,Hybrid,Cryptopia,nevacoin
+XEM,Other,DPOS,Cryptopia,nem
+NXS,SHA3,Hybrid,Cryptopia,nexus
+NOBL,Scrypt,Hybrid,Cryptopia,noblecoin
+NLC2,SHA256,POS,Cryptopia,nolimitcoin
+NVC,Scrypt,Hybrid,Cryptopia,novacoin
+USNBT,POS,POS,Cryptopia,nubits
+NSR,POS,POS,Cryptopia,nushares
+NYAN,Scrypt,POW,Cryptopia,nyancoin
+ODN,POS,POS,Cryptopia,obsidian
+888,Scrypt,POW,Cryptopia,octocoin
+OK,POS,POS,Cryptopia,okcash
+OMG,None,Asset,Cryptopia,omisego
+OPAL,Scrypt,POW,Cryptopia,opal
+OTN,None,Asset,Cryptopia,open-trading-network
+ORB,NeoScrypt,Hybrid,Cryptopia,orbitcoin
+ORME,Ethash,POW,Cryptopia,ormeus-coin
+OX,None,Asset,Cryptopia,ox-fina
+PRL,None,Asset,Cryptopia,oyster-pearl
+PAC,SHA256,POS,Cryptopia,paccoin
+PAK,Scrypt,POW,Cryptopia,pakcoin
+PND,POS,POS,Cryptopia,pandacoin-pnd
+DUO,Scrypt,POW,Cryptopia,parallelcoin
+PASC,Other,POW,Cryptopia,pascal-coin
+PASL,Other,POW,Cryptopia,pascal-lite
+CON,X13,POS,Cryptopia,paycon
+PPC,SHA256,Hybrid,Cryptopia,peercoin
+PTC,Scrypt,POW,Cryptopia,pesetacoin
+XPD,SHA256,POW,Cryptopia,petrodollar
+PHS,Scrypt,Hybrid,Cryptopia,philosopher-stones
+PXC,NeoScrypt,POW,Cryptopia,phoenixcoin
+PHR,POS,POS,Cryptopia,phore
+PHO,Blake256,POW,Cryptopia,photon
+PIE,POS,POS,Cryptopia,piecoin
+PIGGY,X11,POS,Cryptopia,piggycoin
+PLR,Scrypt,POW,Cryptopia,pillar
+PINK,Scrypt,POW,Cryptopia,pinkcoin
+PCOIN,Scrypt,POW,Cryptopia,pioneer-coin
+PIRL,Dagger,POW,Cryptopia,pirl
+PIVX,Quark,Hybrid,Cryptopia,pivx
+XPTX,Scrypt,POW,Cryptopia,platinumbar
+PLX,Other,Asset,Cryptopia,plexcoin
+PLC,SHA256,POW,Cryptopia,pluscoin
+POP,Scrypt,POW,Cryptopia,popularcoin
+POST,POS,POS,Cryptopia,postcoin
+POSW,POS,POS,Cryptopia,posw-coin
+POT,Scrypt,POS,Cryptopia,potcoin
+POWR,None,Asset,Cryptopia,power-ledger
+PXI,X11,POW,Cryptopia,prime-xi
+XPM,Other,POW,Cryptopia,primecoin
+PROC,POS,POS,Cryptopia,procurrency
+PR,SHA256,POW,Cryptopia,prototanium
+PBL,Other,POW,Cryptopia,publica
+PURA,X11,POW,Cryptopia,pura
+VIDZ,Other,POS,Cryptopia,purevidz
+PUT,Scrypt,Hybrid,Cryptopia,putincoin
+QTUM,None,Asset,Cryptopia,qtum
+QRK,Quark,POW,Cryptopia,quark
+QTL,Scrypt,POW,Cryptopia,quatloo
+Q2C,Qubit,POW,Cryptopia,qubitcoin
+QWARK,None,Asset,Cryptopia,qwark
+RBBT,Scrypt,POW,Cryptopia,rabbitcoin
+XRA,POS,POS,Cryptopia,ratecoin
+RED,Scrypt,POW,Cryptopia,redcoin
+RDD,POS,POS,Cryptopia,reddcoin
+RNS,POS,POS,Cryptopia,renos
+R,Scrypt,POW,Cryptopia,revain
+XRE,Other,POW,Cryptopia,revolvercoin
+RBT,Scrypt,POS,Cryptopia,rimbit
+RPC,Scrypt,POW,Cryptopia,ronpaulcoin
+RKC,None,Asset,Cryptopia,royal-kingdom-coin
+XRY,CryptoNight,Hybrid,Cryptopia,royalties
+RBY,POS,POS,Cryptopia,rubycoin
+RUP,Scrypt,POW,Cryptopia,rupee
+RC,Scrypt,POS,Cryptopia,russiacoin
+SAFEX,None,Asset,Cryptopia,safe-exchange-coin
+SAGA,Scrypt,Hybrid,Cryptopia,sagacoin
+SKR,Scrypt,POW,Cryptopia,sakuracoin
+STV,X13,POS,Cryptopia,sativacoin
+SBC,Other,Hybrid,Cryptopia,strikebitclub
+SCORE,Scrypt,POW,Cryptopia,scorecoin
+SRC,Scrypt,POW,Cryptopia,securecoin
+SDRN,None,Asset,Cryptopia,senderon
+SXC,Scrypt,POW,Cryptopia,sexcoin
+SHA,SHA256,POS,Cryptopia,shacoin
+SAK,Scrypt,POW,Cryptopia,sharkcoin
+SIB,X11,POW,Cryptopia,sibcoin
+611,SHA256,POW,Cryptopia,sixeleven
+SKC,Skein,POW,Cryptopia,skeincoin
+SKIN,None,Asset,Cryptopia,skincoin
+SKY,Other,Other,Cryptopia,skycoin
+SMART,Keccak,POW,Cryptopia,smartcash
+SMC,X11,POW,Cryptopia,smartcoin
+SCL,Other,POW,Cryptopia,social
+SEND,Quark,POS,Cryptopia,social-send
+SOIL,Scrypt,POW,Cryptopia,soilcoin
+SFC,Scrypt,POW,Cryptopia,solarflarecoin
+XLR,Nist5,Hybrid,Cryptopia,solaris
+SONG,Scrypt,POW,Cryptopia,songcoin
+SOON,SHA256,POW,Cryptopia,sooncoin
+SPACE,Scrypt,Hybrid,Cryptopia,spacecoin
+SPANK,POS,POS,Cryptopia,spankchain
+XSPEC,POS,POS,Cryptopia,spectrecoin
+XID,None,Asset,Cryptopia,sphre-air
+SPT,Scrypt,POW,Cryptopia,spots
+SPR,X11,POW,Cryptopia,spreadcoin
+STRC,None,Asset,Cryptopia,starcredits
+START,X11,POW,Cryptopia,startcoin
+XST,Scrypt,POW,Cryptopia,stealthcoin
+SLG,POS,POS,Cryptopia,sterlingcoin
+STC,POS,POS,Cryptopia,santa-coin
+STRAT,POS,POS,Cryptopia,stratis
+SUMO,CryptoNight,POW,Cryptopia,sumokoin
+BUCKS,Scrypt,Hybrid,Cryptopia,swagbucks
+SWING,SHA256,POS,Cryptopia,swing
+SYNX,POS,POS,Cryptopia,syndicate
+AMP,None,Asset,Cryptopia,synereo
+TAJ,Blake2s,Hybrid,Cryptopia,tajcoin
+TSE,Scrypt,Hybrid,Cryptopia,tattoocoin
+TEK,SHA256,Hybrid,Cryptopia,tekcoin
+PAY,None,Asset,Cryptopia,tenx
+TRC,SHA256,POW,Cryptopia,terracoin
+TER,Scrypt,Hybrid,Cryptopia,terranova
+TES,Scrypt,POS,Cryptopia,teslacoin
+USDT,Scrypt,POW,Cryptopia,tether
+TGC,SHA256,POW,Cryptopia,tigercoin
+TIT,SHA256,POW,Cryptopia,titcoin
+TTC,Scrypt,POW,Cryptopia,tittiecoin
+TOA,Scrypt,Hybrid,Cryptopia,toacoin
+TOK,Scrypt,POW,Cryptopia,tokugawa
+TOP,Scrypt,Hybrid,Cryptopia,topcoin
+TX,X11,POS,Cryptopia,transfercoin
+TZC,NeoScrypt,POW,Cryptopia,trezarcoin
+TRI,POS,POS,Cryptopia,triangles
+TRK,Scrypt,POS,Cryptopia,truckcoin
+TRUMP,Blake256,POS,Cryptopia,trumpcoin
+UBQ,Dagger,POW,Cryptopia,ubiq
+UTC,Scrypt_jane,Hybrid,Cryptopia,ultracoin
+UNB,SHA256,POW,Cryptopia,unbreakablecoin
+UNIC,SHA256,POW,Cryptopia,unicoin
+UNIFY,Scrypt,POS,Cryptopia,unify
+UIS,Other,Hybrid,Cryptopia,unitus
+UNIT,SHA256,Hybrid,Cryptopia,universal-currency
+UNO,SHA256,POW,Cryptopia,unobtanium
+UFR,None,Asset,Cryptopia,upfiring
+UR,Other,POW,Cryptopia,ur
+VPRC,Scrypt,POW,Cryptopia,vaperscoin
+XVG,Blake256,POW,Cryptopia,verge
+VRC,Scrypt,POS,Cryptopia,vericoin
+VRM,Scrypt,POW,Cryptopia,veriumreserve
+V,SHA256,Hybrid,Cryptopia,version
+VUC,Nist5,Hybrid,Cryptopia,virta-unique-coin
+VISIO,X13,Hybrid,Cryptopia,visio
+VIVO,NeoScrypt,POW,Cryptopia,vivo
+VOISE,Scrypt,POW,Cryptopia,voisecom
+WRC,Scrypt,Hybrid,Cryptopia,worldcore
+WSX,X11,Hybrid,Cryptopia,wearesatoshi
+WILD,None,Asset,Cryptopia,wild-crypto
+WC,Scrypt,POW,Cryptopia,win-coin
+WDC,Scrypt,POW,Cryptopia,worldcoin
+XCO,SHA256,Hybrid,Cryptopia,x-coin
+XGOX,Scrypt,Hybrid,Cryptopia,xgox
+XBY,Scrypt,POW,Cryptopia,xtrabytes
+ZEC,Equihash,POW,Cryptopia,zcash
+ZCL,Equihash,POW,Cryptopia,zclassic
+XZC,Lyra2RE,POW,Cryptopia,zcoin
+ZEIT,Scrypt,POS,Cryptopia,zeitcoin
+ZEN,Equihash,POW,Cryptopia,zencash
+ZER,Equihash,POW,Cryptopia,zero
+ZET,SHA256,POW,Cryptopia,zetacoin
+ZOI,Lyra2RE,POW,Cryptopia,zoin
+ZSE,X11,Hybrid,Cryptopia,zsecoin
